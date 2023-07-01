@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: array-record
+Version: 0.4.0
+Summary: A file format that achieves a new frontier of IO efficiency
+Home-page: https://github.com/google/array_record
+Author: ArrayRecord team
+Author-email: no-reply@google.com
+License: Apache-2.0
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.8
+License-File: LICENSE
+Requires-Dist: absl-py
+Requires-Dist: etils[epath]
+
