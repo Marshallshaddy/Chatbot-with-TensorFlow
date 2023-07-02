@@ -18,7 +18,7 @@ This repository contains code for building a chatbot using the Databricks Dolly 
 ## Usage
 
 1. Install the required dependencies by running `pip install -r requirements.txt`.
-2. Run the script `chatbot.py`.
+2. Run the script `chatbot_AI.py`.
 3. Enter your questions or instructions.
 4. The chatbot will provide responses based on the available instructions in the dataset.
 5. For unseen inputs, it will generate responses using the T5 model.
